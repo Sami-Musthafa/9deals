@@ -1,0 +1,30 @@
+.home-page {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-card {
+  width: 80vw;
+  height: 85vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-img {
+  width: 80%;
+  height: 100%;
+  background-image: url("../../../assets/images/home-card.jpg");
+  background-size: cover;
+  background-position: bottom;
+  color: black;
+  display: flex;
+}
+.deals-9 {
+  color: rgb(47, 28, 5);
+  font-weight: 700;
+  font-family: cursive;
+  margin-top: 5rem;
+}
